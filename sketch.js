@@ -37,7 +37,6 @@ function setup() {
 	
 	
 	Engine.run(engine);
-//	keyPressed()
   
 }
 
@@ -73,6 +72,4 @@ function keyPressed() {
 }
 
 
-//function mouseDragged(){
-  //Matter.Body.setPosition(bob1.body, {x: mouseX , y: mouseY});
-//}
+
